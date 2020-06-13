@@ -1,6 +1,6 @@
-# (walrus_demo)[https://warycat.github.io/walrus_demo/]
+# [walrus_demo](https://warycat.github.io/walrus_demo/)
 
-This demo uses (lalrpop)[https://github.com/lalrpop/lalrpop] (frontend) and (walrus)[https://github.com/rustwasm/walrus] (backend) to compile (kaleidoscope)[https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html] languange into wasm. The compiler itself is also a wasm module.
+This demo uses [lalrpop](https://github.com/lalrpop/lalrpop) (frontend) and [walrus](https://github.com/rustwasm/walrus) (backend) to compile [kaleidoscope](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html) languange into wasm. The compiler itself is also a wasm module.
 
 ```
 def add(a, b) {
