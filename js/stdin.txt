@@ -1,1 +1,11 @@
-1 * (2 - 3) + 5
+def add(a, b) {
+    a + b
+}
+
+def sub(a, b) {
+    a - b
+}
+
+def main() {
+    add(2, add(4,8)) + sub(2,4)
+}
